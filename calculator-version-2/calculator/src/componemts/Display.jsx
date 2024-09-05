@@ -8,8 +8,6 @@ const Display = ({ displayValue }) => {
       type="text"
       value={displayValue}
       readOnly
-      let
-      sam
     />
   );
 };
