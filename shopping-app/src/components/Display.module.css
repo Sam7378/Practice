@@ -1,0 +1,10 @@
+.display {
+ color: white;
+ height: 150px;
+ width: 176px;
+ margin: 0px 10px 5px;
+ background-color: rgb(43, 41, 41);
+ border: none;
+ pointer-events: none;
+
+}

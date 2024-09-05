@@ -1,0 +1,10 @@
+.display {
+  color: white;
+  margin: 10px;
+  width: 176px;
+  height: 150px;
+  font-size: 25px;
+  background-color: transparent;
+  border: transparent;
+  pointer-events: none;
+}
